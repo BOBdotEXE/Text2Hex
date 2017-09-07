@@ -6,9 +6,12 @@ It can read from a Text File, or it can even accept data directly!
 
 So you can use it as a standalone program, or as part of a script!
 
- 
+
+
+### To download the latest version, check out the [Releases page!](https://github.com/BOBdotEXE/Text2Hex/releases)
+
 * (This is a early version it needs some cleaning.)
- 
+
 ## How to use:
  
 As with any java application, you can simply run it via command prompt with:
