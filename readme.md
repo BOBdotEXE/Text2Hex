@@ -36,7 +36,7 @@ Here are the arguments:
  
 Example: A1 B2 C3 (or) A4B3C2 (REQUIRES -i)
  
-[Output file]
+### [Output file]
  
 * Path to output file.
  
