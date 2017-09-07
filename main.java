@@ -6,7 +6,7 @@ public class main {
 
 	public static void main(String[] args)
 	{
-		String outPath=args[2];
+		
 		String userText=""; //the text that will hold the user's data.
 		if (args.length !=3)
 		{	
@@ -14,6 +14,8 @@ public class main {
 		                        "Expected: 3 Got: "+args.length+" !");			
 			System.exit(-1);
 		}
+		
+		String outPath=args[2];
 		
 		args[0]=args[0].toLowerCase(); //just to make things easy, we'll force the input to lower case.
 		
